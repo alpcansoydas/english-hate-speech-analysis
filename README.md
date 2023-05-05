@@ -8,8 +8,7 @@ Used dataset is from https://huggingface.co/datasets/badmatr11x/hate-offensive-s
 
 Evaluation results for the limited number of data:
 
-<img width="488" alt="Screenshot 2023-05-05 at 10 00 48" src="https://user-images.githubusercontent.com/48163702/236395237-0f23628c-1f98-4460-8b02-3a4867a0a352.png">
-
+<img width="477" alt="Screenshot 2023-05-05 at 10 11 43" src="https://user-images.githubusercontent.com/48163702/236397000-e605d261-a7c4-498b-999b-c12ed0ed4c3a.png">
 
 *Evaluation code is seperated because of memory limitations.
 
