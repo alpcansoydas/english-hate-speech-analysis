@@ -1,6 +1,6 @@
 # english-hate-speech-analysis
 
-In this work, hate speech recognition system is implemented in English.
+In this work, hate speech recognition system is implemented in English. Texts that consist hate speech or offensive language are labeled as offensive and others are labeled as non-offensive.
 
 This model is a fine-tuned version of https://huggingface.co/cardiffnlp/twitter-roberta-base-offensive
 
