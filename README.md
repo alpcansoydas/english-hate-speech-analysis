@@ -2,7 +2,7 @@
 
 In this work, hate speech recognition system is implemented in English.
 
-This model is a fine-tuned version of YSKartal/bert-base-turkish-cased-turkish_offensive_trained_model and dbmdz/bert-base-turkish-cased.
+This model is a fine-tuned version of https://huggingface.co/cardiffnlp/twitter-roberta-base-offensive
 
 Used dataset is from https://huggingface.co/datasets/badmatr11x/hate-offensive-speech
 
